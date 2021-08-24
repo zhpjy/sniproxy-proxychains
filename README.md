@@ -25,3 +25,4 @@ docker run \
         -v $(pwd)/sniproxy:/etc/sniproxy \
         -d zhpjy/sniproxy-proxychains
 ```
+And you can use [this](https://github.com/zhpjy/gfwlist2dnsmasq) to generate gfwlist rules for dnsmasq
