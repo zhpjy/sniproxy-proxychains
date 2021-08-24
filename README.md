@@ -1,7 +1,7 @@
 # sniproxy-proxychains
 Proxy sniproxy traffic with proxychains
 
-# Usage
+## Usage
 Prepare sniproxy.conf config file in sniproxy folder, example:
 ```
 user nobody
