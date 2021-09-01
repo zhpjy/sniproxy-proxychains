@@ -1,5 +1,6 @@
 # sniproxy-proxychains
 Proxy sniproxy traffic with proxychains
+docker: https://hub.docker.com/r/zhpjy/sniproxy-proxychains
 
 ## Usage
 Prepare sniproxy.conf config file in sniproxy folder, example:
